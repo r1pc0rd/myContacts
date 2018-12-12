@@ -81,7 +81,7 @@
             "__events__": {},
             "__info__": {
                 "isRoot": true,
-                "kuid": "i15f6b2e1b2a469cb92ca81e3b7d3284",
+                "kuid": "a621a41e96c24d4bb9c2abb42f1dd83c",
                 "srcKUID": "i713e5a46798402db47c275cb15d627d",
                 "wType": "FlexContainer"
             },
@@ -125,7 +125,7 @@
         "segMessages": {
             "__events__": {},
             "__info__": {
-                "kuid": "f1f0a67e98a34e759e6a59220a066526",
+                "kuid": "b12afda6f1b84f7bb7476f5d9ef10d02",
                 "srcKUID": "gf85d513ed754b4387b5ec8569d916d0",
                 "wType": "Segment"
             }
@@ -137,7 +137,7 @@
     "iscustomlayout": false,
     "isdatareferenced": false,
     "isvisible": true,
-    "kuid": "i15f6b2e1b2a469cb92ca81e3b7d3284",
+    "kuid": "a621a41e96c24d4bb9c2abb42f1dd83c",
     "layouttype": 2,
     "masterType": 0,
     "name": "kony.ui.UserWidgetInstance",

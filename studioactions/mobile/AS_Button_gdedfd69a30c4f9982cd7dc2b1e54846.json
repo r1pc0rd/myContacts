@@ -7,7 +7,7 @@
             "name": "eventobject"
         }],
         "contextObj": {
-            "name": "Form1",
+            "name": "frmLogin",
             "type": "forms",
             "platform": null,
             "KUID": "bf0008cec4884903819a97e38503496d"
@@ -29,8 +29,8 @@
             "id": "SHOW_ALERT__d863d92a5aa84ab6ab75c26452d8c2f4",
             "type": "SHOW_ALERT",
             "alertType": "constants.ALERT_TYPE_INFO",
-            "alertTitle": null,
-            "yesLabel": null,
+            "alertTitle": "Success",
+            "yesLabel": "Ok",
             "noLabel": null,
             "alertIcon": null,
             "alertMessage": "Login Successful.",
@@ -44,6 +44,17 @@
             "alertMessagei18n": null,
             "iconPosition": "constants.ALERT_ICON_POSITION_LEFT",
             "disabled": null
+        }, {
+            "id": "NAVIGATE_TO_FORM___d1824125994c4be6bbef754c10c8310e",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmContacts",
+            "formKUID": "c3e20491f5dd4644964eb5e288fdb43c",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "INVOKE_IDENTITY_SERVICE__j9c7c5c7b567485aa7dbb470894bfe82",
+            "callbackType": "Success",
+            "enableMappingEditor": true,
+            "package": ""
         }, {
             "id": "SHOW_ALERT__b9fe34df0b844f0f934403282b332155",
             "type": "SHOW_ALERT",

@@ -719,5 +719,9 @@
     <attributes name="certs_key_store_type" value="JKS"/>
     <attributes name="ANDROIDWEAR_WRITE_SYNC_SETTINGS" value="false"/>
     <attributes name="spaandroidtab800basefontsize" value="14"/>
+    <attributes name="cloud_url" value=""/>
+    <attributes name="cloud_env_name" value=""/>
+    <attributes name="cloud_env_GUID" value=""/>
+    <attributes name="isLibraryBuild" value="false"/>
     <attributes name="defaultlocalekey" value=""/>
 </properties>

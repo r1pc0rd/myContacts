@@ -13,8 +13,8 @@ define({
             }
             kony.ui.Alert({
                 "alertType": constants.ALERT_TYPE_INFO,
-                "alertTitle": null,
-                "yesLabel": null,
+                "alertTitle": "Success",
+                "yesLabel": "Ok",
                 "noLabel": null,
                 "alertIcon": null,
                 "message": "Login Successful.",
@@ -22,6 +22,8 @@ define({
             }, {
                 "iconPosition": constants.ALERT_ICON_POSITION_LEFT
             });
+            var ntf = new kony.mvc.Navigation("frmContacts");
+            ntf.navigate();
         }
         function INVOKE_IDENTITY_SERVICE__j9c7c5c7b567485aa7dbb470894bfe82_Failure(status, login) {
             function SHOW_ALERT__b9fe34df0b844f0f934403282b332155_Callback() {

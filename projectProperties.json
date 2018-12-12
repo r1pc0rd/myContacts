@@ -35,109 +35,109 @@
     "defaulttheme": "defaultTheme",
     "cloud_account_guid": "699fffa6-b10d-4426-bdad-cfd74e265ce5",
     "nativeContainerProperties": {
-        "isModified": false,
-        "isEnableJSContainer": true,
         "isEnableJSContainerAndroid": true,
-        "isEnableJSContaineriOS": true
+        "isModified": true,
+        "isEnableJSContaineriOS": true,
+        "isEnableJSContainer": true
     },
     "appmenu": {
         "tablet": {
             "data": [
                 {
-                    "id": "appmenuitemid1",
-                    "title": "Item 1",
-                    "icon": {
-                        "default": "option1.png"
+                    "windows8": {
+                        "appBarButtonStyle": "No Style",
+                        "position": "BOTTOM_LEFT"
                     },
                     "android": {
                         "showAsFlag": 0
                     },
                     "kuid": "b2b041bd18a44567ae4329a58c1939eb",
-                    "windows8": {
-                        "position": "BOTTOM_LEFT",
-                        "appBarButtonStyle": "No Style"
-                    }
+                    "icon": {
+                        "default": "option1.png"
+                    },
+                    "id": "appmenuitemid1",
+                    "title": "Item 1"
                 },
                 {
-                    "id": "appmenuitemid2",
-                    "title": "Item 2",
-                    "icon": {
-                        "default": "option2.png"
+                    "windows8": {
+                        "appBarButtonStyle": "No Style",
+                        "position": "BOTTOM_LEFT"
                     },
                     "android": {
                         "showAsFlag": 0
                     },
                     "kuid": "ca60b1c4ddea49b0b960e8d0ccad936c",
-                    "windows8": {
-                        "position": "BOTTOM_LEFT",
-                        "appBarButtonStyle": "No Style"
-                    }
+                    "icon": {
+                        "default": "option2.png"
+                    },
+                    "id": "appmenuitemid2",
+                    "title": "Item 2"
                 },
                 {
-                    "id": "appmenuitemid3",
-                    "title": "Item 3",
-                    "icon": {
-                        "default": "option3.png"
+                    "windows8": {
+                        "appBarButtonStyle": "No Style",
+                        "position": "BOTTOM_LEFT"
                     },
                     "android": {
                         "showAsFlag": 0
                     },
                     "kuid": "hdaab9e293ec49f1bd33224dae3adda4",
-                    "windows8": {
-                        "position": "BOTTOM_LEFT",
-                        "appBarButtonStyle": "No Style"
-                    }
+                    "icon": {
+                        "default": "option3.png"
+                    },
+                    "id": "appmenuitemid3",
+                    "title": "Item 3"
                 },
                 {
-                    "id": "appmenuitemid4",
-                    "title": "Item 4",
-                    "icon": {
-                        "default": "option4.png"
+                    "windows8": {
+                        "appBarButtonStyle": "No Style",
+                        "position": "BOTTOM_LEFT"
                     },
                     "android": {
                         "showAsFlag": 0
                     },
                     "kuid": "fcef052543f24bedb0d6d125da4d9831",
-                    "windows8": {
-                        "position": "BOTTOM_LEFT",
-                        "appBarButtonStyle": "No Style"
-                    }
+                    "icon": {
+                        "default": "option4.png"
+                    },
+                    "id": "appmenuitemid4",
+                    "title": "Item 4"
                 }
             ]
         },
         "desktop": {
             "data": [
                 {
-                    "id": "appmenuitemid1",
-                    "title": "Item 1",
+                    "kuid": "fb39d98afefe4b2098cffda145f7037a",
                     "icon": {
                         "default": "option1.png"
                     },
-                    "kuid": "fb39d98afefe4b2098cffda145f7037a"
+                    "id": "appmenuitemid1",
+                    "title": "Item 1"
                 },
                 {
-                    "id": "appmenuitemid2",
-                    "title": "Item 2",
+                    "kuid": "f8514ac063e64212b8de8e0e9fb9eb9e",
                     "icon": {
                         "default": "option2.png"
                     },
-                    "kuid": "f8514ac063e64212b8de8e0e9fb9eb9e"
+                    "id": "appmenuitemid2",
+                    "title": "Item 2"
                 },
                 {
-                    "id": "appmenuitemid3",
-                    "title": "Item 3",
+                    "kuid": "c813429817dc484781f312ae1366aa8b",
                     "icon": {
                         "default": "option3.png"
                     },
-                    "kuid": "c813429817dc484781f312ae1366aa8b"
+                    "id": "appmenuitemid3",
+                    "title": "Item 3"
                 },
                 {
-                    "id": "appmenuitemid4",
-                    "title": "Item 4",
+                    "kuid": "c3b792e69933428eb6fea49571dd420d",
                     "icon": {
                         "default": "option4.png"
                     },
-                    "kuid": "c3b792e69933428eb6fea49571dd420d"
+                    "id": "appmenuitemid4",
+                    "title": "Item 4"
                 }
             ]
         },
@@ -148,48 +148,48 @@
         "mobile": {
             "data": [
                 {
-                    "id": "appmenuitemid1",
-                    "title": "Item 1",
-                    "icon": {
-                        "default": "option1.png"
-                    },
                     "kuid": "hc1226cf20c64d16af13b23a8ce6b624",
                     "android": {
                         "showAsFlag": 0
-                    }
+                    },
+                    "icon": {
+                        "default": "option1.png"
+                    },
+                    "id": "appmenuitemid1",
+                    "title": "Item 1"
                 },
                 {
-                    "id": "appmenuitemid2",
-                    "title": "Item 2",
-                    "icon": {
-                        "default": "option2.png"
-                    },
                     "kuid": "b614d76ee99e487cb7b8689b4331a195",
                     "android": {
                         "showAsFlag": 0
-                    }
+                    },
+                    "icon": {
+                        "default": "option2.png"
+                    },
+                    "id": "appmenuitemid2",
+                    "title": "Item 2"
                 },
                 {
-                    "id": "appmenuitemid3",
-                    "title": "Item 3",
-                    "icon": {
-                        "default": "option3.png"
-                    },
                     "kuid": "jc874cf4898d44bdb4a3258c27a8c0be",
                     "android": {
                         "showAsFlag": 0
-                    }
+                    },
+                    "icon": {
+                        "default": "option3.png"
+                    },
+                    "id": "appmenuitemid3",
+                    "title": "Item 3"
                 },
                 {
-                    "id": "appmenuitemid4",
-                    "title": "Item 4",
-                    "icon": {
-                        "default": "option4.png"
-                    },
                     "kuid": "ce5cbc5277a844b5a28ba88b353b6a04",
                     "android": {
                         "showAsFlag": 0
-                    }
+                    },
+                    "icon": {
+                        "default": "option4.png"
+                    },
+                    "id": "appmenuitemid4",
+                    "title": "Item 4"
                 }
             ]
         },
@@ -199,9 +199,9 @@
     "defaultlocalekey": "en_US",
     "kfAppInfo": {
         "aafb8ef7-f5bb-406d-a4f3-a1b3b79d9109": {
+            "appName": "myContacts",
             "id": "7fc1fce7-f12e-42a0-afc3-05c50e8c45f7",
             "baseId": "7fc1fce7-f12e-42a0-afc3-05c50e8c45f7",
-            "appName": "myContacts",
             "version": "1.0"
         }
     }
