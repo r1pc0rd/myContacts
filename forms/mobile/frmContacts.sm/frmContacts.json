@@ -29,7 +29,9 @@
         "needAppMenu": false
     },
     "canUpdateUI": true,
-    "children": [],
+    "children": [
+        "FacebookMessage"
+    ],
     "containerweight": 100,
     "controllerInfo": {
         "default": {
