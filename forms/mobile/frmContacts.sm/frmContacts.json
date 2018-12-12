@@ -29,10 +29,7 @@
         "needAppMenu": false
     },
     "canUpdateUI": true,
-    "children": [
-        "Button0f06cf9c723b648",
-        "CopyButton0fbb02dc2e46741"
-    ],
+    "children": [],
     "containerweight": 100,
     "controllerInfo": {
         "default": {
